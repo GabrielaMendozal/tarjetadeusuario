@@ -3,45 +3,44 @@ body{
 }
 .contenedorPrincipal{
     border: 2px solid rgb(160, 160, 160);
-    width: 650px;
-    
+    width: 50%;
 }
 
 .header{
     background-color: rgb(4, 160, 160);
-    height: 70px;
+    height: 7%;
 }
 .header > img {
-    width: 80px;
+    width: 20%;
     position: relative;
     top: 30px;
-    left: 20px;
+    left: 10%;
     border: 2px solid rgb(160, 160, 160);
     border-radius: 50%;
-    padding: 2px;
+    padding: 1%;
     background-color: white;
 }
 .tarjetaInformacion{
-    margin-top: 55px;
-    padding-left: 20px;
-    padding-bottom: 20px;
+    margin-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
 }
 
 .iconoUbicacion {
-    width: 10px;
-    padding: 5px;
+    width: 5%;
+    padding: 1%;
 }
 
 .iconoConfiguracion{
-    width: 15px;
-    padding: 5px;
+    width: 5%;
+    padding: 1%;
 }
 
 .ciudad, .linkEditar{
-    vertical-align: 7px;
+    vertical-align: 7%;
 }
 .skillset{
-    margin-bottom: 5px;
+    margin-bottom: 3%;
 }
 .tituloUniversitario{
     margin-top: 0;
